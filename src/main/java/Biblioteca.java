@@ -9,6 +9,7 @@ import java.util.List;
  * @author Aarón Díaz Hernández
  * @version 1.0
  * @see <a href="https://github.com/Aarondh84">Github Profile</a>
+ * @see GitHub RepositoryURL: <a href=https://github.com/Aarondh84/Examen_2doTrimestre.git"></a>
  */
 public class Biblioteca {
 
